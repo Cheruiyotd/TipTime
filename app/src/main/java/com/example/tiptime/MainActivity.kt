@@ -2,6 +2,7 @@ package com.example.tiptime
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.tiptime.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
